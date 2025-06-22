@@ -1,2 +1,2 @@
 # ICNLP
-Sub to ICNLP, email for co-Lab
+Submission to ICNLP, email for co-Lab
